@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Unique",
+      "second": "brand Stories"
+    },
+    "image": "/img/slid/one.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Digital",
+      "second": "Marketing Solutions"
+    },
+    "image": "/img/slid/six.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Content",
+      "second": "Marketing"
+    },
+    "image": "/img/slid/two.jpg"
+  }
+]

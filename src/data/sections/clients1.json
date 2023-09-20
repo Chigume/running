@@ -1,0 +1,42 @@
+[
+  {
+      "id": 1,
+      "darkImage": "/img/clients/brands/all.png",
+      "lightImage": "/img/clients/brands/light/1.png"
+  },
+  {
+    "id": 2,
+    "darkImage": "/img/clients/brands/ba white.png",
+    "lightImage": "/img/clients/brands/light/2.png"
+  },
+  {
+    "id": 3,
+    "darkImage": "/img/clients/brands/caltex_logo_white.png",
+    "lightImage": "/img/clients/brands/light/3.png"
+  },
+  {
+    "id": 4,
+    "darkImage": "/img/clients/brands/itravel.png",
+    "lightImage": "/img/clients/brands/light/4.png"
+  },
+  {
+    "id": 5,
+    "darkImage": "/img/clients/brands/kutlowht.png",
+    "lightImage": "/img/clients/brands/light/5.png"
+  },
+  {
+    "id": 6,
+    "darkImage": "/img/clients/brands/LKwhite.png",
+    "lightImage": "/img/clients/brands/light/6.png"
+  },
+  {
+    "id": 7,
+    "darkImage": "/img/clients/brands/Sad.png",
+    "lightImage": "/img/clients/brands/light/7.png"
+  },
+  {
+    "id": 8,
+    "darkImage": "/img/clients/brands/ZB-Logo white.png",
+    "lightImage": "/img/clients/brands/light/8.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Unique",
+      "second": "brand Stories"
+    },
+    "content": "Connect more with your clients through unique and inspiring brand stories. You only need to tell your story well and make it great",
+    "image": "/img/slid/one.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Digital",
+      "second": "Designing "
+    },
+    "content": "Grow your business online through digital marketing. Make it easy for your clients to find you and engage with you",
+    "image": "/img/slid/six.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Original Solutions",
+    "content": "Great content makes great brands. Make your brand stand out by sharing great & captivating content that your audience won't afford to ignore",
+    "image": "/img/slid/two.jpg"
+  }
+]

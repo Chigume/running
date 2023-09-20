@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas1/b_new.jpg",
+    "title": "youthful designs",
+    "tags": ["Minimalist", "Brands"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/Mas1.png",
+    "title": "Surreal",
+    "tags": ["Bold", "Brands"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/Mas2.png",
+    "title": "Aesthetic designs",
+    "tags": ["Colorful", "Brands"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/Mas3.png",
+    "title": "Clean Designs",
+    "tags": ["Elegant", "Brands"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/Mas4.png",
+    "title": "Minimalistic",
+    "tags": ["Personal", "Brands"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/Mas5.png",
+    "title": "Creative thinking",
+    "tags": ["Vintage", "designs"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/Mas1.png",
+    "title": "Surreal ",
+    "tags": ["Morden", "designs"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas1/b.png",
+    "title": "Beautiful Designs",
+    "tags": ["Clean", "posters"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas1/c.png",
+    "title": "Suspenseful",
+    "tags": ["Grunge", "designs"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas1/d.png",
+    "title": "Captivating",
+    "tags": ["Geometric", "Brands"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas1/f.png",
+    "title": "Opulent",
+    "tags": ["Abstract", "View"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas1/Mas3.png",
+    "title": "eye-catching and sharable designs",
+    "tags": ["Illustrative", "designs"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas1/Mas6.jpg",
+    "title": "Minimalistic Branding",
+    "tags": ["Abstract", "View"],
+    "filterCategory": ["brand"]
+  }
+
+]

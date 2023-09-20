@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Visual Focus",
+    "image": "/img/portfolio/metro/2.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 2,
+    "title": "Capturing life memories",
+    "image": "/img/portfolio/metro/4.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 3,
+    "title": "art",
+    "image": "/img/portfolio/metro/Kutlo.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 4,
+    "title": "corporate branding",
+    "image": "/img/portfolio/metro/Kutlo1.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 5,
+    "title": "imaginations",
+    "image": "/img/portfolio/metro/Kutlo3.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 5,
+    "title": "art & illustration",
+    "image": "/img/portfolio/metro/3.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  }
+]
