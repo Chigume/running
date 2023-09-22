@@ -15,39 +15,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
         className="background bg-img section-padding pb-0"
         style={{ backgroundImage: `url(/img/pattern${theme === 'light' ? '-light':''}.png)` }}
       >
-        <div className="container">
-          <div className="number-sec">
-            <div className="row">
-              <div className="col-lg-3 col-md-6">
-                <div className="item no-bord">
-                  <span className="icon pe-7s-smile"></span>
-                  <h3 className="custom-font">
-                    <span className="count">24+</span>
-                  </h3>
-                  <Split>
-                    <p className="wow txt words chars splitting" data-splitting>
-                      Happy Clients
-                    </p>
-                  </Split>
-                </div>
-              </div>
-             
-              <div className="col-lg-3 col-md-6">
-                <div className="item">
-                  <span className="icon pe-7s-medal"></span>
-                  <h3 className="custom-font">
-                    <span className="count">50+</span>
-                  </h3>
-                  <Split>
-                    <p className="wow txt words chars splitting" data-splitting>
-                      Award Winning Designs
-                    </p>
-                  </Split>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+       
         {typeof window !== "undefined" && (
           <ModalVideo
             channel="youtube"
