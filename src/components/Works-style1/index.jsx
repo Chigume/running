@@ -14,14 +14,14 @@ const WorksStyle1 = () => {
         <div className="row lg-space">
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/works/Works 1.jpg" alt="" />
+                    <img src="img/portfolio/works/Works 1.jpg/" alt="" />
                   </div>
                 </a>
               </Link>
@@ -29,7 +29,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -44,7 +44,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -59,7 +59,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -74,7 +74,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -89,7 +89,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -104,7 +104,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -119,7 +119,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -134,7 +134,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -149,7 +149,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
@@ -164,7 +164,7 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href="/project-details2/project-details2-dark">
+              <Link href="">
                 <a>
                   <div
                     className="img"
