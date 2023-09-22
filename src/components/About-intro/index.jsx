@@ -15,13 +15,7 @@ const AboutIntro = () => {
             <div className="text">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                Hi there! My name is Tawonga Makotose. I am a Creative Designer, 
-                Content Creator & Business Consultant, 
-                with over 5 years experience in the creative industry. 
-                I specialise in branding, inspirational content creation & digital marketing. 
-                I have worked on many projects with vaarious reputable brands accross different business fields. My mission is to add value to brands & help them stand out 
-                through elegant & thoughtful visual presentations, paying maximum attention 
-                to detail.
+                Hello! Im Tawonga Makotose, a passionate graphic designer, with over 5 years of experience, driven by the art of visual storytelling. With a background in digital marketing, I bring a unique perspective to every project, ensuring designs not only captivate but also convert. My work is a fusion of creativity and strategy, resulting in timeless designs that leave lasting impressions and create memorable brand identities. Lets collaborate and bring your vision to life.
                 </p>
               </Split>
             </div>

@@ -15,7 +15,7 @@ const ProjectDetailsHeader = () => {
         </div>
         <div
           className="img-wrapper bg-img parallaxie"
-          style={{ backgroundImage: "url(/img/portfolio/project1/bg.jpg)" }}
+          style={{ backgroundImage: "url(/img/portfolio/project1/b.jpg)" }}
         ></div>
       </section>
     );

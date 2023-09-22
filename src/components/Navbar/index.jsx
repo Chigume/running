@@ -21,7 +21,7 @@ const Navbar = ({ lr, nr, theme }) => {
       }`}
     >
       <div className="container">
-        <Link href="/">
+        <Link href="/home/home3-dark">
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (
@@ -65,10 +65,7 @@ const Navbar = ({ lr, nr, theme }) => {
               <div className="dropdown-menu">
                
                 <Link href="/home/home2-dark">
-                  <a className="dropdown-item">Digital Marketing</a>
-                </Link>
-                <Link href="/project-details2/project-details2-dark/">
-                  <a className="dropdown-item">art & illustration</a>
+                  <a className="dropdown-item">See, Feel & Connect</a>
                 </Link>
                 
               </div>
@@ -86,7 +83,7 @@ const Navbar = ({ lr, nr, theme }) => {
               </span>
               <div className="dropdown-menu">
                 <Link href="/showcase/showcase-dark">
-                  <a className="dropdown-item">Digital & Print Publications</a>
+                  <a className="dropdown-item">Brand Strategy</a>
                 </Link>
               </div>
             </li>

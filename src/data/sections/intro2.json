@@ -1,12 +1,5 @@
 [
-  {
-    "id": 1,
-    "title": {
-      "first": "Unique",
-      "second": "brand Stories"
-    },
-    "image": "/img/slid/one.jpg"
-  },
+  
   {
     "id": 2,
     "title": {
@@ -22,5 +15,14 @@
       "second": "Marketing"
     },
     "image": "/img/slid/two.jpg"
+  },
+  {
+    "id": 1,
+    "title": {
+      "first": "Unique",
+      "second": "brand Stories"
+    },
+    "image": "/img/slid/one.jpg"
   }
+  
 ]

@@ -90,7 +90,7 @@ const VideoWithTestimonials = () => {
                     <div className="info">
                       <div className="img">
                         <div className="img-box">
-                          <img src="/img/clients/Clients5.jpg" alt="" />
+                          <img src="/img/clients/Clients5.png" alt="" />
                         </div>
                       </div>
                       <div className="cont">
@@ -135,7 +135,7 @@ const VideoWithTestimonials = () => {
                     <div className="info">
                       <div className="img">
                         <div className="img-box">
-                          <img src="/img/clients/3.jpg" alt="" />
+                          <img src="/img/clients/Intelstar.jpeg" alt="" />
                         </div>
                       </div>
                       <div className="cont">

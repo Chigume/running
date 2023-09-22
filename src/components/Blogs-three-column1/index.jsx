@@ -8,11 +8,11 @@ const BlogsThreeColumn1 = ({ subBG, newHome }) => {
       <div className="container">
         <div className="sec-head custom-font text-center">
           <h6 className="wow fadeIn" data-wow-delay=".5s">
-            Latest News
+            Latest News From
           </h6>
           <Split>
             <h3 className="wow" data-splitting>
-              Our Blogs.
+              My Blogs.
             </h3>
           </Split>
           {

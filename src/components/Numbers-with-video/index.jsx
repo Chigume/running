@@ -22,7 +22,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                 <div className="item no-bord">
                   <span className="icon pe-7s-smile"></span>
                   <h3 className="custom-font">
-                    <span className="count">2400</span>
+                    <span className="count">24+</span>
                   </h3>
                   <Split>
                     <p className="wow txt words chars splitting" data-splitting>
@@ -31,41 +31,16 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                   </Split>
                 </div>
               </div>
-              <div className="col-lg-3 col-md-6">
-                <div className="item">
-                  <span className="icon pe-7s-portfolio"></span>
-                  <h3 className="custom-font">
-                    <span className="count">133</span>
-                  </h3>
-                  <Split>
-                    <p className="wow txt words chars splitting" data-splitting>
-                      Compleate Projects
-                    </p>
-                  </Split>
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6">
-                <div className="item">
-                  <span className="icon pe-7s-cloud-download"></span>
-                  <h3 className="custom-font">
-                    <span className="count">254</span> k
-                  </h3>
-                  <Split>
-                    <p className="wow txt words chars splitting" data-splitting>
-                      Files Downloaded
-                    </p>
-                  </Split>
-                </div>
-              </div>
+             
               <div className="col-lg-3 col-md-6">
                 <div className="item">
                   <span className="icon pe-7s-medal"></span>
                   <h3 className="custom-font">
-                    <span className="count">46</span>
+                    <span className="count">50+</span>
                   </h3>
                   <Split>
                     <p className="wow txt words chars splitting" data-splitting>
-                      Award Win
+                      Award Winning Designs
                     </p>
                   </Split>
                 </div>
@@ -96,7 +71,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                   </div>
                   <div className="wow imago">
                     <div className="img">
-                      <img src="/img/vid.jpg" alt="" />
+                      <img src="/img/one.jpg" alt="" />
                     </div>
                     <div className="vid-icon">
                       <a

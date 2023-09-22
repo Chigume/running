@@ -36,12 +36,12 @@ const ProjectDetails2Dark = () => {
         <ProjectDetails2Images />
         <ProjectDetailsDescription />
         <ProjectDetailsVideo
-          videoBackground="/img/portfolio/project2/Project 2.jpg"
+          videoBackground="/img/portfolio/project2/f.jpg"
           videoType="youtube"
           videoId={"X-yoQAU-3wo"}
         />
         <NextProject
-          projectImage="/img/portfolio/project1/Project 6.jpg"
+          projectImage="/img/portfolio/project1/Project6.jpg"
           projectTitle="Natural plus modern."
         />
         <SmallFooter />

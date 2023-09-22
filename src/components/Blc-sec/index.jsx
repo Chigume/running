@@ -20,8 +20,7 @@ const BlcSec = () => {
                   className="extra-title wow words chars splitting"
                   data-splitting
                 >
-                  I help to create strategies, design & development.
-                </h2>
+I am a versatile designer with a keen eye for aesthetics, a passion for creativity, and a strong commitment to crafting functional and visually appealing solutions.                </h2>
               </Split>
             </div>
           </div>
@@ -29,8 +28,7 @@ const BlcSec = () => {
             <div className="full-width">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                I create value for brands and i help them stand out distinguished from the rest of their competition.
-
+                Im passionate about creating brand identities that not only reflect a companys values but also leave a lasting impression in the minds of consumers.
                 </p>
               </Split>
               <Split>

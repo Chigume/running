@@ -15,17 +15,13 @@ const ProjectDetails2Introduction = () => {
           <div className="col-lg-8 offset-lg-1 col-md-8">
             <div className="text js-scroll__content">
               <p className="extra-text">
-                We are a Creative Agency &amp; Startup Studio that provides
-                Digital Products and Services turns to focus on client success.
-                We specialize in user interface design, including front-end
-                development which we consider to be an integral part.
+              Nothing beats experience, creativity, versatility & attention to detail. Through consistent creation of aesthetic visuals, I have managed to gain the trust of reputable brands and I have managed to stand out as one of the best graphic designers in my space through:
               </p>
 
               <ul className="smp-list mt-30">
-                <li>Aenean sollicitudin</li>
-                <li>lorem quis bibendum auctor</li>
-                <li>nisi elit conseq uat ipsum</li>
-                <li>nec sagittis sem nibh id elit</li>
+                <li>Digital Marketing Solutions</li>
+                <li>Content Marketing</li>
+                <li>Unique Brand Stories</li>
               </ul>
             </div>
           </div>

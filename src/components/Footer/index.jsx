@@ -62,7 +62,7 @@ const Footer = ({ noSubBG }) => {
           </div>
           <div className="col-lg-5 offset-lg-2">
             <div className="subscribe mb-50">
-              <h6 className="custom-font stit simple-btn">Newslatter</h6>
+              <h6 className="custom-font stit simple-btn">Newsletter</h6>
               <p>Sign up for subscribe out newsletter!</p>
               <Formik
                 initialValues={{

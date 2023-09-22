@@ -51,7 +51,7 @@ class Testimonials1 extends React.Component {
         <div className="container position-re">
           <div className="sec-head custom-font text-center">
             <h6 className="wow fadeIn" data-wow-delay=".5s">
-              What Peapole Say?
+              What People Say?
             </h6>
             <Split>
               <h3 className="wow words chars splitting" data-splitting>
@@ -80,40 +80,25 @@ class Testimonials1 extends React.Component {
               >
                 <div className="item">
                 <p>
-                    Working with Tawonga  to support our organic and
-                    paid social media activity has extended the marketing
-                    activities we are able to achieve platform has made
-                    collaboration easy.
+                Top notch service and I appreciate how patient you were throughout the service process until I got exactly what I wanted. Thank you so much!
                   </p>
                   <div className="info">
                     <div className="cont">
                       <div className="author">
                         {this.props.subBgLftstl ? (
                           <>
-                            <div className="lxleft">
-                              <div className="img">
-                                <img src="/img/clients/1.jpg" alt="" />
-                              </div>
-                            </div>
-                            <div className="fxright">
-                              <h6 className="author-name custom-font">
-                                Alex Chikanda
-                              </h6>
-                              <span className="author-details">
-                                Co-founder, Colabrio
-                              </span>
-                            </div>
+                            
                           </>
                         ) : (
                           <>
                           <div className="img">
-                            <img src="/img/clients/Clients4.png" alt="" />
+                            <img src="/img/clients/SA Logo.jpg" alt="" />
                           </div>
                           <h6 className="author-name custom-font">
-                            Caltex Braford 
+                            Tasha
                           </h6>
                           <span className="author-details">
-                            Caltex Braford, Lubricants
+                            Shoe Addicts
                           </span>
                           </>
                         )}
@@ -123,29 +108,14 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                 <p>
-                    Tawonga started o our digital marketing , but his
-                    scientific approach to digital marketing and the results
-                    they have achieved made it an easy decision for us to
-                    handover the management.
+                Thank you so much for the design I loved it, clean and on the dot. My customers love it too. It has since increased traffic to our shop. I will refer more people to you. GOD bless.
                   </p>
                   <div className="info">
                     <div className="cont">
                       <div className="author">
                         {this.props.subBgLftstl ? (
                           <>
-                            <div className="lxleft">
-                              <div className="img">
-                                <img src="/img/clients/1.jpg" alt="" />
-                              </div>
-                            </div>
-                            <div className="fxright">
-                              <h6 className="author-name custom-font">
-                                Alex Regelman
-                              </h6>
-                              <span className="author-details">
-                                Co-founder, Colabrio
-                              </span>
-                            </div>
+                      
                           </>
                         ) : (
                           <>
@@ -166,47 +136,99 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                 <p>
-                    I would highly recommend Tawonga. I worked with him
-                    on an animation for our U+2018 Click &amp; Collect U+2019
-                    service. He is different from any other agency I have
-                    worked with in the past.
+                I had the pleasure of working with Tawonga for my projects and I have to say I am beyond impressed with his skills. Overall, I highly recommend Tawonga for anyone looking to take their work to the next level. Thank you for all of your hard work and dedication
                   </p>
                   <div className="info">
                     <div className="cont">
                       <div className="author">
                         {this.props.subBgLftstl ? (
                           <>
-                            <div className="lxleft">
+                            
+                          </>
+                        ) : (
+                          <>
+                          <div className="lxleft">
                               <div className="img">
-                                <img src="/img/clients/1.jpg" alt="" />
+                                <img src="/img/clients/tinaani.jpg" alt="" />
                               </div>
                             </div>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                                Rosebud 
+                                Tinaani Nick 
                               </h6>
                               <span className="author-details">
-                                Founder, ImageFair
+                                Author & Relationship Expert
                               </span>
                             </div>
-                          </>
-                        ) : (
-                          <>
-                          <div className="img">
-                            <img src="/img/clients/Clients5.png" alt="" />
-                          </div>
-                          <h6 className="author-name custom-font">
-                            Danai 
-                          </h6>
-                          <span className="author-details">
-                            Founder, Itravel Holidays
-                          </span>
                           </>
                         )}
                       </div>
                     </div>
                   </div>
                 </div>
+                <div className="item">
+                <p>
+                Top notch service and I appreciate how patient you were throughout the service process until I got exactly what I wanted. Thank you so much!                  </p>
+                  <div className="info">
+                    <div className="cont">
+                      <div className="author">
+                        {this.props.subBgLftstl ? (
+                          <>
+                            
+                          </>
+                        ) : (
+                          <>
+                          <div className="lxleft">
+                              <div className="img">
+                                <img src="/img/clients/Clients3.png" alt="" />
+                              </div>
+                            </div>
+                            <div className="fxright">
+                              <h6 className="author-name custom-font">
+                                Rosebud
+                              </h6>
+                              <span className="author-details">
+                                Image Fair
+                              </span>
+                            </div>
+                          </>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="item">
+                <p>
+                Thank You so Much Tawonga for an excellent service looking forward to do more business with you                 </p>
+                  <div className="info">
+                    <div className="cont">
+                      <div className="author">
+                        {this.props.subBgLftstl ? (
+                          <>
+                            
+                          </>
+                        ) : (
+                          <>
+                          <div className="lxleft">
+                              <div className="img">
+                                <img src="/img/clients/Intelstar.jpeg" alt="" />
+                              </div>
+                            </div>
+                            <div className="fxright">
+                              <h6 className="author-name custom-font">
+                                Law
+                              </h6>
+                              <span className="author-details">
+                                Founder Intelstar
+                              </span>
+                            </div>
+                          </>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
               </Slider>
             </div>
           </div>

@@ -21,7 +21,7 @@ const PortfolioTwoColumn = () => {
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
               <Link href="/project-details/project-details-dark">
                 <a>
-                  <img src="/img/portfolio/works/1.jpg" alt="image" />
+                  <img src="/img/portfolio/works/Works 1.jpg" alt="image" />
                 </a>
               </Link>
               <div className="cont">
@@ -39,7 +39,7 @@ const PortfolioTwoColumn = () => {
                 <div className="item-img wow fadeInUp" data-wow-delay=".4s">
                   <Link href="/project-details/project-details-dark">
                     <a>
-                      <img src="/img/portfolio/works/2.jpg" alt="image" />
+                      <img src="/img/portfolio/works/Works 2.jpg" alt="image" />
                     </a>
                   </Link>
                   <div className="cont">
@@ -57,7 +57,7 @@ const PortfolioTwoColumn = () => {
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
               <Link href="/project-details/project-details-dark">
                 <a>
-                  <img src="/img/portfolio/works/3.jpg" alt="image" />
+                  <img src="/img/portfolio/works/Works 3.jpg" alt="image" />
                 </a>
               </Link>
               <div className="cont">
@@ -95,7 +95,7 @@ const PortfolioTwoColumn = () => {
                 <div className="item-img wow fadeInUp" data-wow-delay=".4s">
                   <Link href="/project-details/project-details-dark">
                     <a>
-                      <img src="/img/portfolio/works/5.jpg" alt="image" />
+                      <img src="/img/portfolio/works/Works 5.jpg" alt="image" />
                     </a>
                   </Link>
                   <div className="cont">
@@ -113,7 +113,7 @@ const PortfolioTwoColumn = () => {
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
               <Link href="/project-details/project-details-dark">
                 <a>
-                  <img src="/img/portfolio/works/4.jpg" alt="image" />
+                  <img src="/img/portfolio/works/Works 4.jpg" alt="image" />
                 </a>
               </Link>
               <div className="cont">
@@ -131,7 +131,7 @@ const PortfolioTwoColumn = () => {
                 <div className="item-img wow fadeInUp" data-wow-delay=".4s">
                   <Link href="/project-details/project-details-dark">
                     <a>
-                      <img src="/img/portfolio/works/7.jpg" alt="image" />
+                      <img src="/img/portfolio/works/Works 6.jpg" alt="image" />
                     </a>
                   </Link>
                   <div className="cont">
@@ -149,7 +149,53 @@ const PortfolioTwoColumn = () => {
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
               <Link href="/project-details/project-details-dark">
                 <a>
-                  <img src="/img/portfolio/works/8.jpg" alt="image" />
+                  <img src="/img/portfolio/works/Works8.jpg" alt="image" />
+                </a>
+              </Link>
+              <div className="cont">
+                <h6>See It Yourself</h6>
+                <span>
+                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 items web">
+            <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+              <Link href="/project-details/project-details-dark">
+                <a>
+                  <img src="/img/portfolio/works/Works9.jpg" alt="image" />
+                </a>
+              </Link>
+              <div className="cont">
+                <h6>See It Yourself</h6>
+                <span>
+                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6 items web">
+            <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+              <Link href="/project-details/project-details-dark">
+                <a>
+                  <img src="/img/portfolio/works/Works10.jpg" alt="image" />
+                </a>
+              </Link>
+              <div className="cont">
+                <h6>See It Yourself</h6>
+                <span>
+                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6 items web">
+            <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+              <Link href="/project-details/project-details-dark">
+                <a>
+                  <img src="/img/portfolio/works/Works11.jpg" alt="image" />
                 </a>
               </Link>
               <div className="cont">

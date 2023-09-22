@@ -102,9 +102,11 @@ const IntroWithSlider3 = () => {
                 </SwiperSlide>
               ))}
             </Swiper>
+            
           ) : null}
         </div>
       </div>
+      
       <div className="swiper-container swiper-img">
         {!load ? (
           <Swiper
@@ -154,7 +156,7 @@ const IntroWithSlider3 = () => {
             ></SwiperSlide>
             <SwiperSlide
               className="swiper-slide bg-img"
-              style={{ backgroundImage: 'url("/img/slid/two.jpg")' }}
+              style={{ backgroundImage: 'url("/img/slid/Home page 4.jpg")' }}
               data-overlay-dark="6"
             ></SwiperSlide>
             <SwiperSlide
@@ -186,6 +188,7 @@ const IntroWithSlider3 = () => {
       </div>
       <div className="swiper-pagination custom-font" ref={paginationRef}></div>
     </header>
+    
   );
 };
 

@@ -20,17 +20,12 @@ const AboutWithSkills = () => {
               </div>
               <Split>
                 <h3 className="main-title wow" data-splitting>
-                My aim is to add value to brands & help them stand out 
-                through elegant & thoughtful visual presentations, paying maximum attention 
+                My aim is to add value to brands and help them stand out 
+                through elegant and thoughtful visual presentations, paying maximum attention 
                 to detail.                </h3>
               </Split>
               <p className="wow fadeInUp" data-wow-delay=".5s">
-              Hi there! My name is Tawonga Makotose. I am a Creative Designer, 
-                Content Creator & Business Consultant, 
-                with over 5 years experience in the creative industry. 
-                I specialise in branding, inspirational content creation & digital marketing. 
-                I have worked on many projects with various business & individual clients across
-                different fields. 
+              Hello! Im Tawonga Makotose, a passionate graphic designer, with over 5 years of experience, driven by the art of visual storytelling. With a background in digital marketing, I bring a unique perspective to every project, ensuring designs not only captivate but also convert. My work is a fusion of creativity and strategy, resulting in timeless designs that leave lasting impressions and create memorable brand identities. Lets collaborate and bring your vision to life.
               </p>
               <a href="/public/img/taw.pdf" className="simple-btn mt-40">
                 Download C.V

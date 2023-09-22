@@ -104,7 +104,7 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/Curs1.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/Curs.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -136,7 +136,7 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/Curs.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/Curs2.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -168,7 +168,7 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/Curs3.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/a.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -200,7 +200,7 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/Curs4.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/b.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -231,7 +231,7 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/Curs.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/Curs3.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
