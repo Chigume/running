@@ -50,10 +50,10 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
         </div>
         {typeof window !== "undefined" && (
           <ModalVideo
-            channel="vimeo"
+            channel="youtube"
             autoplay
             isOpen={isOpen}
-            videoId="127203262"
+            videoId="X-yoQAU-3wo"
             onClose={() => setOpen(false)}
           />
         )}
@@ -80,7 +80,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                           setOpen(true);
                         }}
                         className="vid"
-                        href="https://vimeo.com/127203262"
+                        href="https://www.youtube.com/watch?v=X-yoQAU-3wo"
                       >
                         <div className="vid-butn">
                           <span className="icon">
