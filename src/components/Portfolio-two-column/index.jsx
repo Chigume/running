@@ -19,7 +19,7 @@ const PortfolioTwoColumn = () => {
         <div className="gallery full-width">
           <div className="col-md-6 items graphic">
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-              <Link href="/project-details/project-details-dark">
+              <Link href="/project-details2/project-details2-dark">
                 <a>
                   <img src="/img/portfolio/works/Works 1.jpg" alt="image" />
                 </a>
@@ -37,7 +37,7 @@ const PortfolioTwoColumn = () => {
             <div className="row">
               <div className="col-lg-10">
                 <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                  <Link href="/project-details/project-details-dark">
+                  <Link href="/project-details2/project-details2-dark">
                     <a>
                       <img src="/img/portfolio/works/Works 2.jpg" alt="image" />
                     </a>
@@ -55,7 +55,7 @@ const PortfolioTwoColumn = () => {
 
           <div className="col-md-6 items brand">
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-              <Link href="/project-details/project-details-dark">
+              <Link href="/project-details2/project-details2-dark">
                 <a>
                   <img src="/img/portfolio/works/Works 3.jpg" alt="image" />
                 </a>
@@ -73,7 +73,7 @@ const PortfolioTwoColumn = () => {
             <div className="row">
               <div className="col-lg-10 offset-lg-2">
                 <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                  <Link href="/project-details/project-details-dark">
+                  <Link href="/project-details2/project-details2-dark">
                     <a>
                       <img src="/img/portfolio/works/6.jpg" alt="image" />
                     </a>
@@ -93,7 +93,7 @@ const PortfolioTwoColumn = () => {
             <div className="row">
               <div className="col-lg-11 offset-lg-1">
                 <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                  <Link href="/project-details/project-details-dark">
+                  <Link href="/project-details2/project-details2-dark">
                     <a>
                       <img src="/img/portfolio/works/Works 5.jpg" alt="image" />
                     </a>
@@ -111,7 +111,7 @@ const PortfolioTwoColumn = () => {
 
           <div className="col-md-6 items graphic">
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-              <Link href="/project-details/project-details-dark">
+              <Link href="/project-details2/project-details2-dark">
                 <a>
                   <img src="/img/portfolio/works/Works 4.jpg" alt="image" />
                 </a>
@@ -129,7 +129,7 @@ const PortfolioTwoColumn = () => {
             <div className="row">
               <div className="col-lg-10">
                 <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                  <Link href="/project-details/project-details-dark">
+                  <Link href="/project-details2/project-details2-dark">
                     <a>
                       <img src="/img/portfolio/works/Works 6.jpg" alt="image" />
                     </a>
@@ -147,7 +147,7 @@ const PortfolioTwoColumn = () => {
 
           <div className="col-md-6 items web">
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-              <Link href="/project-details/project-details-dark">
+              <Link href="/project-details2/project-details2-dark">
                 <a>
                   <img src="/img/portfolio/works/Works8.jpg" alt="image" />
                 </a>
@@ -163,7 +163,7 @@ const PortfolioTwoColumn = () => {
 
           <div className="col-md-6 items web">
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-              <Link href="/project-details/project-details-dark">
+              <Link href="/project-details2/project-details2-dark">
                 <a>
                   <img src="/img/portfolio/works/Works9.jpg" alt="image" />
                 </a>
@@ -178,7 +178,7 @@ const PortfolioTwoColumn = () => {
           </div>
           <div className="col-md-6 items web">
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-              <Link href="/project-details/project-details-dark">
+              <Link href="/project-details2/project-details2-dark">
                 <a>
                   <img src="/img/portfolio/works/Works10.jpg" alt="image" />
                 </a>
@@ -193,7 +193,7 @@ const PortfolioTwoColumn = () => {
           </div>
           <div className="col-md-6 items web">
             <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-              <Link href="/project-details/project-details-dark">
+              <Link href="/project-details2/project-details2-dark">
                 <a>
                   <img src="/img/portfolio/works/Works11.jpg" alt="image" />
                 </a>
