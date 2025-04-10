@@ -111,9 +111,10 @@ const Footer = ({ noSubBG }) => {
         </div>
         <div className="copyrights text-center">
           <p>
-          © 2023, Abgirl Chigume <a href="https://neniwo.com" target="_blank" rel="noreferrer"> @Neniwo</a>.
+            © {new Date().getFullYear()}, Placement <a href="https://placement.co.zw/" target="_blank" rel="noreferrer">@Placement</a>.
           </p>
         </div>
+
       </div>
     </footer>
   );
